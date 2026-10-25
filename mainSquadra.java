@@ -7,7 +7,7 @@ public class mainSquadra {
         Data d3 = new Data(3, 11, 2024);
         Data d4 = new Data(25, 11, 2024);
 
-        Calciatore c1 = new Calciatore("daniele", "gianella", "Milan", 180, 60, d1);
+        Calciatore c1 = new Calciatore("Mario", "Rossi", "Milan", 180, 60, d1);
         Calciatore c2 = new Calciatore("Danny", "Stortiero", "Toro", 190, 60, d2);
         Calciatore c3 = new Calciatore("Gigi", "Buffon", "Juve", 150, 60, d3);
         Calciatore c4 = new Calciatore("Cristiano", "Ronaldo", "Real Madrid", 170, 60, d4);
