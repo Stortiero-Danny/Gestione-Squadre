@@ -14,9 +14,7 @@ Applicazione **Java da console** che simula la gestione di squadre di calcio e c
 
 ## Prova la demo
 
-**[Esegui il progetto online](INSERISCI_LINK_DEMO_ONLINEGDB)**
-
-> Sostituisci `INSERISCI_LINK_DEMO_ONLINEGDB` con il collegamento pubblico alla demo. La versione attuale esegue **operazioni predefinite** e ne mostra il risultato in console: non presenta ancora un menu interattivo.
+**[Esegui il progetto online](https://onlinegdb.com/pklSJJHip)**
 
 ## Esecuzione in locale
 
